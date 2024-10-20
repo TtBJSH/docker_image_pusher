@@ -1,3 +1,4 @@
 python:3.11.1
 savatar101/omniparse:0.1
 mysql:5.7.44
+registry.fit2cloud.com/halo/halo:2.20.0
