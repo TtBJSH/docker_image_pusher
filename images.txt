@@ -1,3 +1,4 @@
 python:3.11.1
 b3log/siyuan
 rustdesk/rustdesk-server
+halohub/halo
