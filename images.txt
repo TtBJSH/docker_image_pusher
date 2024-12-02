@@ -1,4 +1,4 @@
 python:3.11.1
 b3log/siyuan
 rustdesk/rustdesk-server
-halohub/halo
+registry.fit2cloud.com/halo/halo:2.20
