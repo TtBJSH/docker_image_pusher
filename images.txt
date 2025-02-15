@@ -3,3 +3,4 @@ b3log/siyuan
 rustdesk/rustdesk-server
 registry.fit2cloud.com/halo/halo:2.20
 zmister/mrdoc:v8
+mysql:5.7
